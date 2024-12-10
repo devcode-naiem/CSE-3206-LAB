@@ -1,4 +1,26 @@
-# Lab 1
-Today is lab2. But adding this lab1 as this was not created
+# 🧪 Lab 1: Introduction to Git and GitHub  
 
-In this lab we have learned how to istall git and how to use git. We also learned how to create github repositories and how to download files from github to local machine. We also learned how to create a git repository in local machine and how to upload files to github from local machine. 
+This file documents the first lab session of **Software Engineering Sessional**. Although we are currently on Lab 2, this file captures the key learnings from Lab 1 for completeness.
+
+---
+
+## 📖 **What We Learned**
+1. **Installing Git**:  
+   - Setting up Git on a local machine for version control.  
+   - Configuring Git with username and email.  
+
+2. **Using GitHub**:  
+   - Creating repositories on GitHub.  
+   - Downloading files and repositories to a local machine.  
+
+3. **Local Git Repository**:  
+   - Initializing a local Git repository.  
+   - Staging and committing changes.  
+   - Pushing files to a remote repository on GitHub.  
+
+---
+
+## 🎯 **Purpose of this File**
+- This text is part of the Lab 1 branch and serves to document our progress and learnings.
+
+Happy Coding! 🚀
