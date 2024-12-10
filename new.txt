@@ -1,3 +1,18 @@
-this is a text file. 
+# 📝 Lab 2: Remote Repository and Branching  
 
-This text is from lab 2 brach.
+This is a text file created as part of **Lab 2 branch**.  
+It contains notes and practice material for today's lab activities.  
+
+---
+
+## 📋 **Today's Objectives**
+- Understand how to control remote repositories using Git.  
+- Learn how to push and pull branches between local and remote repositories.  
+
+---
+
+## ✨ **Key Features**  
+- Text file created in **Lab 2 branch**.  
+- Demonstrates the workflow of branch creation and synchronization between local and remote repositories.  
+
+Happy Branching! 🌿  
