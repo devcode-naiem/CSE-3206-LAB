@@ -17,8 +17,14 @@ Branches in Git are powerful tools that enable parallel development and experime
 ---
 
 ## 📋 **Contents of this Branch**  
-- `hello.txt`: A file demonstrating the branch creation process and its purpose.  
-- `README.md`: This file explains the purpose and learnings from the Virtual Branch.  
+1. `hello.txt`:  
+   - Demonstrates the branch creation process and its purpose.  
+   - Provides insights into remote branch workflows.  
+
+2. `hello.erl`:  
+   - A simple Erlang program to calculate the factorial of a number.  
+   - Demonstrates the usage of an unpopular but functional programming language.  
+   - Serves as an example of clean and recursive programming.
 
 ---
 
@@ -29,4 +35,4 @@ Branches in Git are powerful tools that enable parallel development and experime
 
 ---
 
-🌟 **Happy Coding! Explore the power of branches!** 🌟  
+🌟 **Happy Coding! Explore the power of branches and programming with diverse tools!** 🌟  
