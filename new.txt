@@ -1,1 +1,18 @@
-this is a text file. 
+Welcome to the Software Engineering Sessional Lab!
+
+This course is designed to empower students with practical knowledge and skills essential for the modern software development lifecycle. Below are some key points to keep in mind as we progress through the semester:
+
+1. Collaboration is key: Teamwork will be emphasized throughout the course.
+2. Stay organized: Use tools like Git and GitHub to manage your projects effectively.
+3. Focus on quality: Writing clean, maintainable, and efficient code is as important as functionality.
+4. Embrace the process: From requirement gathering to deployment, every step is crucial.
+
+Random Facts:
+- Did you know? The first computer bug was an actual bug—a moth found in a computer in 1947.
+- Fun fact: A “byte” can hold a single character, like 'A' or '7'.
+
+Remember:
+- Code smarter, not harder.
+- Always be curious, and never stop learning!
+
+Happy coding!
